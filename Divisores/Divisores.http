@@ -1,0 +1,6 @@
+@Divisores_HostAddress = http://localhost:5288
+
+GET {{Divisores_HostAddress}}/divisores/
+Accept: application/json
+
+###
